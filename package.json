@@ -1,7 +1,7 @@
 {
 "name": "Pasindu",
-    "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
+    "version": "0.1.2",
+    "description": "0.0.4",
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name Pasindu",
